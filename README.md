@@ -1,8 +1,12 @@
 # HA-DRL Experimental Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23391594.svg)](https://doi.org/10.5281/zenodo.23391594)
+
 Processed experimental summaries accompanying **Online UAV Path Planning for Persistent IoT Data Collection via Attention-Based Deep Reinforcement Learning**.
 
 Authors: Duocheng Xu, Wenmao Zhou, and MingWei Qin.
+
+Archived dataset, version 1.0.0: [Zenodo](https://zenodo.org/records/23391594), DOI: [10.5281/zenodo.23391594](https://doi.org/10.5281/zenodo.23391594).
 
 This repository contains 13 CSV tables with 3,837 records, including seed-level experimental summaries and reward coefficients. These are the same data tables supplied with the manuscript. Each experiment retains its own instance set and metric units, as described in [data/README.txt](data/README.txt).
 
@@ -33,6 +37,10 @@ TJQoS in the primary and most extension tables is recorded as a fraction; the fi
 ## Access
 
 This repository is publicly accessible. The experiment tables and documentation can be downloaded directly. See [ACCESS.md](ACCESS.md) for access information.
+
+## Citation
+
+Xu, D., Zhou, W., & Qin, M. (2026). *HA-DRL Experimental Data* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23391594
 
 ## Reuse licence
 
