@@ -1,0 +1,82 @@
+{
+  "files": [
+    {
+      "file": "01_primary_fifo_seed_summary.csv",
+      "rows": 35,
+      "sha256": "5ba1e4c8c8f6fbff3cd7176137936377563a5e62a1607aea371bb4a688e73753",
+      "description": "Primary FIFO confirmation test, seven learned configurations, 500 instances per training seed."
+    },
+    {
+      "file": "02_higher_budget_pomo_common_test.csv",
+      "rows": 15,
+      "sha256": "2bc2e00f58ca1121f133f60986d13efcd1d00eab01bf8042d3af4e1be8141cc1",
+      "description": "The higher-training-budget POMO checkpoints with greedy and 20-start decoding, plus HA-DRL, on the primary common instances."
+    },
+    {
+      "file": "03_workload_seed_summary.csv",
+      "rows": 1400,
+      "sha256": "dd7b30a2441a8faf760271659ff4400b2bf4de73a08323b53fa13ed082a46c9e",
+      "description": "35 workload conditions; 200 common instances in each condition."
+    },
+    {
+      "file": "04_input_and_reward_seed_summary.csv",
+      "rows": 105,
+      "sha256": "5af635be90c0748bef4d0475ba9fbaee8065e0b2a0877271aeb9f7023afb78a8",
+      "description": "Full policy, six input removals, and fourteen reward variants on their separate 500-instance test."
+    },
+    {
+      "file": "05_stress_seed_summary.csv",
+      "rows": 200,
+      "sha256": "efaa67da00751cbf1c37e3abbd0575b45f958ed53f0fc233b0c9f9014f8ae662",
+      "description": "Five spatial/range/load conditions, including learned and deterministic heuristic policies."
+    },
+    {
+      "file": "06_n30_finetuning_seed_summary.csv",
+      "rows": 5,
+      "sha256": "ee238dac0c4b5be57b0881a033e261daa274f4725147aff0381be9ec6ff7ef65",
+      "description": "Paired original and fine-tuned policies on 500 N=30 instances."
+    },
+    {
+      "file": "07_heterogeneous_arrivals_seed_summary.csv",
+      "rows": 20,
+      "sha256": "bcadda1ad6bbca02a27a59759cee263285fb5edb84316fdbffb0a0d1ed1b7198",
+      "description": "Known rates and three online-estimator initializations on heterogeneous arrivals."
+    },
+    {
+      "file": "08_fixed_window_communication_seed_summary.csv",
+      "rows": 120,
+      "sha256": "8320922a4b82dea702157216400aea94a62d6b9587f335f2ae5de6585cca3293",
+      "description": "Current fixed-window hover communication experiment, eight policies, three conditions, 500 instances per checkpoint and condition."
+    },
+    {
+      "file": "09_checkpoint_timestamp_seed_summary.csv",
+      "rows": 15,
+      "sha256": "eb98265042f93719c0fec1f72b2aef2c3d3227743e6fddd8928fcac48630258b",
+      "description": "Selected and epoch-100 checkpoints, midpoint and conditional-uniform timestamps, on 500 separate instances."
+    },
+    {
+      "file": "10_threshold_grid_seed_summary.csv",
+      "rows": 1875,
+      "sha256": "c74e08c361d0b2ec50ff954b9eb96b81409bacfd38cc0d26aed16b14d90874cc",
+      "description": "125 evaluation-threshold combinations for three methods and five seeds, each using 500 instances."
+    },
+    {
+      "file": "11_policy_behavior_seed_summary.csv",
+      "rows": 35,
+      "sha256": "e7915f095be7737b6e0025ca3fd94b5b823d553c13b6a5215906198b1ba417f2",
+      "description": "Seven scale/load conditions with five policies and 100 instances per condition and seed."
+    },
+    {
+      "file": "12_pomo_separate_decoding_test.csv",
+      "rows": 5,
+      "sha256": "a3db626b927add24928700f68808ec23603a89f6834111d2dcb9208c814dfab9",
+      "description": "The separate greedy and 20-start POMO decoding comparison summarized in Supplementary Section S4."
+    },
+    {
+      "file": "13_reward_coefficients.csv",
+      "rows": 7,
+      "sha256": "79dc24ac99e1d49855c2d1d167d7bce16e900176ca9b05d490653c3e0f75e1e6",
+      "description": "Seven recorded base/low/high reward coefficients; one coefficient changes at a time."
+    }
+  ]
+}
