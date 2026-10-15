@@ -33,3 +33,7 @@ TJQoS in the primary and most extension tables is recorded as a fraction; the fi
 ## Access
 
 This repository is publicly accessible. The experiment tables and documentation can be downloaded directly. See [ACCESS.md](ACCESS.md) for access information.
+
+## Reuse licence
+
+The data and documentation are licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). Attribute Duocheng Xu, Wenmao Zhou, and MingWei Qin, and cite **HA-DRL Experimental Data**. See [LICENSE](LICENSE).

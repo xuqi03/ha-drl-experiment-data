@@ -1,0 +1,29 @@
+{
+  "title": "HA-DRL Experimental Data",
+  "upload_type": "dataset",
+  "description": "Processed experimental data accompanying Online UAV Path Planning for Persistent IoT Data Collection via Attention-Based Deep Reinforcement Learning, by Duocheng Xu, Wenmao Zhou, and MingWei Qin. The deposit contains 13 CSV tables with 3,837 records, including seed-level experimental summaries and reward coefficients, together with data-field definitions, units, experimental conditions, and file checksums.",
+  "creators": [
+    {
+      "name": "Xu, Duocheng",
+      "affiliation": "Southwest University of Science and Technology"
+    },
+    {
+      "name": "Zhou, Wenmao",
+      "affiliation": "Southwest University of Science and Technology"
+    },
+    {
+      "name": "Qin, MingWei",
+      "affiliation": "Southwest University of Science and Technology"
+    }
+  ],
+  "keywords": [
+    "Internet of Things",
+    "UAV data collection",
+    "Age of Information",
+    "deep reinforcement learning",
+    "experimental data"
+  ],
+  "access_right": "open",
+  "version": "1.0.0",
+  "license": "cc-by-nc-4.0"
+}
