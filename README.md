@@ -32,4 +32,4 @@ TJQoS in the primary and most extension tables is recorded as a fraction; the fi
 
 ## Access
 
-This is a private repository. Access requires explicit approval from the repository owner, **xuqi03**, followed by a GitHub collaborator invitation. Contact the owner or the corresponding author using the contact details accompanying the manuscript and provide your GitHub username. See [ACCESS.md](ACCESS.md).
+This repository is publicly accessible. The experiment tables and documentation can be downloaded directly. See [ACCESS.md](ACCESS.md) for access information.
